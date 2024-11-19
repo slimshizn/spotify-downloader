@@ -1,4 +1,6 @@
-Dockerfile
-
-# Ignore .git folder
 .git
+.github
+.vscode
+docs
+scripts
+tests
